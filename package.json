@@ -8,10 +8,12 @@
     "nodemon-start": "nodemon server.js"
   },
   "dependencies": {
+    "auth": "0.0.9",
     "cookie-parser": "^1.4.6",
     "debug": "~2.6.9",
     "ejs": "~2.5.7",
     "express": "^4.17.2",
+    "gh": "^2.8.9",
     "http-errors": "~1.6.2",
     "mongoose": "^5.13.14",
     "morgan": "~1.9.0"
